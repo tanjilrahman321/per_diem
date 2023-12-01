@@ -18,6 +18,10 @@
         position: relative;
     }
 
+    .banner-content h1{
+        font-size: 30px;
+    }
+
 }
 
 /*Small devices (landscape phones, 576px and up)*/
